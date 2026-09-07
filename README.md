@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No: 212225220014
-# Name: K.Ashwin Nehrej
-# Date: 24/8/2026
+# Reg No: 212225040256
+# Name: s.monesh
+# Date: 1/9/2026
 
 
 # AIM:
